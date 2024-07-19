@@ -174,7 +174,7 @@ const SingleFileDropzone = React.forwardRef<HTMLInputElement, InputProps>(
             <div className="text">Drag & drop to upload</div>
             <div className="buttonContainer">
               <button disabled={disabled} className="select">
-                select
+                select resume
               </button>
             </div>
           </div>

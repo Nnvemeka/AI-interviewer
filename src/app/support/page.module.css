@@ -37,6 +37,11 @@
   color: black;
 }
 
+.input::placeholder,
+.textArea::placeholder {
+  color: #666;
+}
+
 .button {
   background-color: transparent;
   color: #9ca3af;
